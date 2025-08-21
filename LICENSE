@@ -9,6 +9,19 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
+---
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
+
+---
+
+🔐 **Third-party notice (CIS)**
+
+This project uses publicly available guidance from the [Center for Internet Security](https://www.cisecurity.org/) (CIS).  
+It is not affiliated with or endorsed by CIS.  
+
+This repository does **not include or redistribute** any copyrighted materials or proprietary content owned by CIS.
+All references to CIS Benchmarks are for compatibility and compliance purposes only.
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
